@@ -64,7 +64,7 @@ color: rgb(90,87,87,1);
 	background-color: #fff ;
 	justify-content: space-between;
 	align-items: center;
-	text-transform: uppercase;
+	text-transform: backspace;
 	font-size: 1 rem;
 	font-weight: 400;
 	box-shadow:0 4px #eeeeee; 
